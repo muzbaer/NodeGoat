@@ -93,7 +93,7 @@ docker-compose up
 The default application settings (database url, http port, etc.) can be changed by updating the [config file] (https://github.com/OWASP/NodeGoat/blob/master/config/env/all.js).
 
 ## Report bugs, Feedback, Comments
-*  Open a new [issue](https://github.com/OWASP/NodeGoat/issues) or contact team by joining chat at [Slack](https://owasp.slack.com/messages/project-nodegoat/) or [![Join the chat at https://gitter.im/OWASP/NodeGoat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/OWASP/NodeGoat?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+*  Open a new [issue](https://github.com/OWASP/NodeGoat/issues) or contact team by joining chat at [Slack](https://owasp.slack.com/messages/project-nodegoat/) or [![Join the chat at https://gitter.im/OWASP/NodeGoat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/OWASP/NodeGoat?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![GuardRails badge](https://badges.production.guardrails.io/muzbaer/NodeGoat.svg)](https://www.guardrails.io)
 
 ## Contributing
 Contributions from community are key to make NodeGoat a high quality comprehensive resource. Lets make NodeGoat awesome together!
